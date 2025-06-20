@@ -32,16 +32,16 @@ You can replace the LED with a vibration motor to make a **tactile flasher** too
 ## 📐 Circuit Design
 
 ### 🧠 Schematic
-![Schematic](https://hc-cdn.hel1.your-objectstorage.com/s/v3/d108039a4248b01a14c4d368285709c346b7e418_screenshot_2025-06-19_091141.png)
+![Schematic](https://hc-cdn.hel1.your-objectstorage.com/s/v3/5575c1a80b1f5b70a031b5f64ae826be50f14af0_schematic.png)
 
 ### 🧩 PCB Layout
-![PCB](https://hc-cdn.hel1.your-objectstorage.com/s/v3/d9db07093776b035a910c58b57a10a45139e4971_screenshot_2025-06-19_091107.png)
+![PCB](https://hc-cdn.hel1.your-objectstorage.com/s/v3/351ecb2458c5308662ba37b8f6732e3e9ee6896a_pcb.png)
 
 ### 🔭 3D View 1
-![3D View 1](https://hc-cdn.hel1.your-objectstorage.com/s/v3/e5daa446adf5944a48a16db0c1903ae7b1dc58d8_screenshot_2025-06-19_091054.png)
+![3D View 1](https://hc-cdn.hel1.your-objectstorage.com/s/v3/cb5ac5b21e113990b0580e8fff5f09fa288346d7_pcb_3d_1.png)
 
 ### 🔬 3D View 2
-![3D View 2](https://hc-cdn.hel1.your-objectstorage.com/s/v3/ae573eabba3c848c13908343346c13d23bbf2eba_screenshot_2025-06-19_091102.png)
+![3D View 2](https://hc-cdn.hel1.your-objectstorage.com/s/v3/1f2cbfb4f6b5305f7c9d8f8a9baf214dab5c307d_pcb_3d_2.png)
 
 > All files live in the `kicad/` and `gerbers/` folders.
 

@@ -43,6 +43,9 @@ You can replace the LED with a vibration motor to make a **tactile flasher** too
 ### 🔬 3D View 2
 ![3D View 2](https://hc-cdn.hel1.your-objectstorage.com/s/v3/1f2cbfb4f6b5305f7c9d8f8a9baf214dab5c307d_pcb_3d_2.png)
 
+### 3D View Back
+![3D View Back](https://hc-cdn.hel1.your-objectstorage.com/s/v3/87bd16d734722f658a79709f2faefd4998ccb5a8_image.png)
+
 > All files live in the `kicad/` and `gerbers/` folders.
 
 ---
